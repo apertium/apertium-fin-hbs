@@ -1,0 +1,27 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/TODO -text
+/apertium-fin-hbs.fin-hbs.dix -text
+/apertium-fin-hbs.fin-hbs.lrx -text
+/apertium-fin-hbs.fin-hbs.rlx -text
+/apertium-fin-hbs.fin-hbs.t1x -text svneol=unset#application/xml
+/apertium-fin-hbs.fin-hbs.t2x -text svneol=unset#application/xml
+/apertium-fin-hbs.fin-hbs.t3x -text svneol=unset#application/xml
+/apertium-fin-hbs.hbs-fin.lrx -text
+/apertium-fin-hbs.hbs-fin.rlx -text
+/apertium-fin-hbs.hbs-fin.t1x -text svneol=unset#application/xml
+/apertium-fin-hbs.hbs-fin.t2x -text svneol=unset#application/xml
+/apertium-fin-hbs.hbs-fin.t3x -text svneol=unset#application/xml
+/autogen.sh -text
+/configure.ac -text
+/fin-hbs.prob -text
+/hbs-fin.prob -text
+/modes.xml -text svneol=unset#application/xml
+texts/rasskaz.hbs.txt -text
+texts/story.fin.txt -text
