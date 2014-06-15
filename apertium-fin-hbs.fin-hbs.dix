@@ -63,6 +63,11 @@
     <sdef n="actv"    c="active"/>
     <sdef n="clt" c = "clitic"/>
     <sdef n="lp" c = "local pointer"/>
+    <sdef n="neg" c = "negative"/>
+    <sdef n="part" c = "particle"/>
+    <sdef n="loc" c = "locative"/>
+    <sdef n="acc" c = "accustative"/>
+    <sdef n="gen" c = "genitive"/>
 
   </sdefs>
   <section id="main" type="standard">
@@ -183,10 +188,20 @@
     <e><p><l>puutarha<s n="n"/></l><r>vrt<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>sää<s n="n"/></l><r>vrijeme<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>talo<s n="n"/></l><r>kuća<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>poika<s n="n"/></l><r>dječak<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>vuosi<s n="n"/></l><r>godina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sisko<s n="n"/></l><r>sistra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>koira<s n="n"/></l><r>pas<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>kissa<s n="n"/></l><r>mačka<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>lapsi<s n="n"/></l><r>dijete<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>äiti<s n="n"/></l><r>majka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ikkuna<s n="n"/></l><r>prozor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>puu<s n="n"/></l><r>drvo<s n="n"/><s n="nt"/></r></p></e>
+
 
     <!-- verbs-->
 
-
+    <e><p><l>ei<s n="vblex"/></l><r>ne<s n="part"/><s n="neg"/></r></p></e>
 
     <!-- auxiliaries = in Finnish verbs with infinitive complement -->
 
@@ -197,6 +212,12 @@
     <e><p><l>olla<s n="vblex"/><s n="actv"/></l><r>biti<s n="vbser"/><s n="clt"/></r></p></e>
     <e><p><l>leikkiä<s n="vblex"/><s n="actv"/></l><r>igrati<s n="vblex"/></r></p></e>
     <e><p><l>pitää<s n="vblex"/><s n="actv"/></l><r>obožavati<s n="vblex"/></r></p></e>
+    <e><p><l>nukkua<s n="vblex"/><s n="actv"/></l><r>spavati<s n="vblex"/></r></p></e>
+    <e><p><l>katsoa<s n="vblex"/><s n="actv"/></l><r>gledati<s n="vblex"/></r></p></e>
+    <e><p><l>nähdä<s n="vblex"/><s n="actv"/></l><r>vidjeti<s n="vblex"/></r></p></e>
+    <e><p><l>juosta<s n="vblex"/><s n="actv"/></l><r>potrčavati<s n="vblex"/></r></p></e>
+    <e><p><l>tietää<s n="vblex"/><s n="actv"/></l><r>znati<s n="vblex"/></r></p></e>
+    <e><p><l>istua<s n="vblex"/><s n="actv"/></l><r>sjediti<s n="vblex"/></r></p></e>
 
     <!-- adjectives -->
 
@@ -204,9 +225,16 @@
     <e><p><l>lämmin<s n="adj"/></l><r>topao<s n="adj"/><s n="pst"/><s n="nt"/></r></p></e>
     <e><p><l>kylmä<s n="adj"/></l><r>hladan<s n="adj"/><s n="pst"/><s n="nt"/></r></p></e>
     <e><p><l>iso<s n="adj"/></l><r>velik<s n="adj"/><s n="pst"/><s n="mi"/></r></p></e>
+    <e><p><l>pieni<s n="adj"/></l><r>malen<s n="adj"/><s n="pst"/><s n="ma"/></r></p></e>
+    <e><p><l>iloinen<s n="adj"/></l><r>sretan<s n="adj"/><s n="pst"/><s n="ma"/></r></p></e>
+    <e><p><l>vanha<s n="adj"/></l><r>star<s n="adj"/><s n="pst"/><s n="ma"/></r></p></e>
 
     <!-- adpositions -->
 
+    <e><p><l>ulos<s n="pr"/></l><r>kroz<s n="pr"/><s n="acc"/></r></p></e>
+    <e><p><l>ulos<s n="post"/></l><r>kroz<s n="pr"/><s n="acc"/></r></p></e>
+    <e><p><l>kanssa<s n="pr"/></l><r>s<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>kanssa<s n="post"/></l><r>s<s n="pr"/><s n="gen"/></r></p></e>
 
 
     <!-- conjunctions -->
@@ -226,6 +254,10 @@
     <e><p><l>aina<s n="adv"/></l><r>uvijek<s n="adv"/></r></p></e>
     <e><p><l>yhdessä<s n="adv"/></l><r>zajedno<s n="adv"/></r></p></e>
     <e><p><l>edessä<s n="adv"/></l><r>ispred<s n="adv"/></r></p></e>
+    <e><p><l>myös<s n="adv"/></l><r>i<s n="cnjcoo"/></r></p></e>
+    <e><p><l>nyt<s n="adv"/></l><r>sada<s n="adv"/></r></p></e>
+    <e><p><l>sisällä<s n="adv"/></l><r>u<s n="pr"/><s n="loc"/></r></p></e>
+    <e><p><l>nopeasti<s n="adv"/></l><r>hitro<s n="adv"/></r></p></e>
 
     <!-- interjections -->
 
@@ -247,6 +279,9 @@
             <e><p><l>he<s n="prn"/><s n="pers"/><s n="p3"/></l><r>free<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/></r></p></e>
 
     <!-- demon -->
+
+    <!-- interrogation -->
+    <e><p><l>miksi<s n="prn"/></l><r>zašto<s n="prn"/></r></p></e>
 
     <!-- translating clitics into words kind of works -->
 
