@@ -57,6 +57,7 @@
     <sdef n="ut"    c="gender U"/>
     <sdef n="ref"    c="reference"/>
     <sdef n="pl"    c="plural"/>
+    <sdef n="tot"    c="total"/>
     <sdef n="un"    c="undecided"/>
     <sdef n="pst"    c="not past"/>
     <sdef n="card"    c="ID"/>
@@ -197,6 +198,20 @@
     <e><p><l>äiti<s n="n"/></l><r>majka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ikkuna<s n="n"/></l><r>prozor<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>puu<s n="n"/></l><r>drvo<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>käsi<s n="n"/></l><r>ruka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>silmä<s n="n"/></l><r>ok<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>leikki<s n="n"/></l><r>igra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>laskeminen<s n="n"/></l><r>brojanje<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>vastaus<s n="n"/></l><r>odgovor<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>kysymys<s n="n"/></l><r>pitanje<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ihminen<s n="n"/></l><r>čojvek<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>tuoli<s n="n"/></l><r>stolac<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>pöytä<s n="n"/></l><r>stol<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>ääni<s n="n"/></l><r>zvuk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>lintu<s n="n"/></l><r>ptica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eläin<s n="n"/></l><r>životinja<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pää<s n="n"/></l><r>glava<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vesi<s n="n"/></l><r>voda<s n="n"/><s n="f"/></r></p></e>
 
 
     <!-- verbs-->
@@ -206,18 +221,41 @@
     <!-- auxiliaries = in Finnish verbs with infinitive complement -->
 
     <e><p><l>voida<s n="vaux"/></l><r>moći<s n="vbmod"/><s n="lp"/><s n="m"/></r></p></e>
+    <e><p><l>osata<s n="vblex"/></l><r>moći<s n="vbmod"/><s n="lp"/><s n="m"/></r></p></e>
+    <e><p><l>pystyä<s n="vblex"/></l><r>moći<s n="vbmod"/><s n="lp"/><s n="m"/></r></p></e>
 
     <!-- lexical verbs = the rest -->
 
-    <e><p><l>olla<s n="vblex"/><s n="actv"/></l><r>biti<s n="vbser"/><s n="clt"/></r></p></e>
-    <e><p><l>leikkiä<s n="vblex"/><s n="actv"/></l><r>igrati<s n="vblex"/></r></p></e>
-    <e><p><l>pitää<s n="vblex"/><s n="actv"/></l><r>obožavati<s n="vblex"/></r></p></e>
-    <e><p><l>nukkua<s n="vblex"/><s n="actv"/></l><r>spavati<s n="vblex"/></r></p></e>
-    <e><p><l>katsoa<s n="vblex"/><s n="actv"/></l><r>gledati<s n="vblex"/></r></p></e>
-    <e><p><l>nähdä<s n="vblex"/><s n="actv"/></l><r>vidjeti<s n="vblex"/></r></p></e>
-    <e><p><l>juosta<s n="vblex"/><s n="actv"/></l><r>potrčavati<s n="vblex"/></r></p></e>
-    <e><p><l>tietää<s n="vblex"/><s n="actv"/></l><r>znati<s n="vblex"/></r></p></e>
-    <e><p><l>istua<s n="vblex"/><s n="actv"/></l><r>sjediti<s n="vblex"/></r></p></e>
+    <e><p><l>olla<s n="vblex"/></l><r>biti<s n="vbser"/><s n="clt"/></r></p></e>
+    <e><p><l>leikkiä<s n="vblex"/></l><r>igrati<s n="vblex"/></r></p></e>
+    <e><p><l>pitää<s n="vblex"/></l><r>obožavati<s n="vblex"/></r></p></e>
+    <e><p><l>nukkua<s n="vblex"/></l><r>spavati<s n="vblex"/></r></p></e>
+    <e><p><l>katsoa<s n="vblex"/></l><r>gledati<s n="vblex"/></r></p></e>
+    <e><p><l>nähdä<s n="vblex"/></l><r>vidjeti<s n="vblex"/></r></p></e>
+    <e><p><l>juosta<s n="vblex"/></l><r>potrčavati<s n="vblex"/></r></p></e>
+    <e><p><l>tietää<s n="vblex"/></l><r>znati<s n="vblex"/></r></p></e>
+    <e><p><l>istua<s n="vblex"/></l><r>sjediti<s n="vblex"/></r></p></e>
+    <e><p><l>laskea<s n="vblex"/></l><r>odbrojavati<s n="vblex"/></r></p></e>
+    <e><p><l>tehdä<s n="vblex"/></l><r>raditi<s n="vblex"/></r></p></e>
+    <e><p><l>lopettaa<s n="vblex"/></l><r>završavati<s n="vblex"/></r></p></e>
+    <e><p><l>etsiä<s n="vblex"/></l><r>tražiti<s n="vblex"/></r></p></e>
+    <e><p><l>mennä<s n="vblex"/></l><r>otići<s n="vblex"/></r></p></e>
+    <e><p><l>kysyä<s n="vblex"/></l><r>pitati<s n="vblex"/></r></p></e>
+    <e><p><l>puhua<s n="vblex"/></l><r>govoriti<s n="vblex"/></r></p></e>
+    <e><p><l>saada<s n="vblex"/></l><r>dobivati<s n="vblex"/></r></p></e>
+    <e><p><l>nauraa<s n="vblex"/></l><r>smijati<s n="vblex"/></r></p></e>
+    <e><p><l>ajatella<s n="vblex"/></l><r>misliti<s n="vblex"/></r></p></e>
+    <e><p><l>kertoa<s n="vblex"/></l><r>reći<s n="vblex"/></r></p></e>
+    <e><p><l>sanoa<s n="vblex"/></l><r>kazati<s n="vblex"/></r></p></e>
+    <e><p><l>vastata<s n="vblex"/></l><r>odgovarati<s n="vblex"/></r></p></e>
+    <e><p><l>haluta<s n="vblex"/></l><r>željeti<s n="vblex"/></r></p></e>
+    <e><p><l>kävellä<s n="vblex"/></l><r>šetati<s n="vblex"/></r></p></e>
+    <e><p><l>löytää<s n="vblex"/></l><r>naći<s n="vblex"/></r></p></e>
+    <e><p><l>kuulla<s n="vblex"/></l><r>začuti<s n="vblex"/></r></p></e>
+    <e><p><l>tulla<s n="vblex"/></l><r>dolaziti<s n="vblex"/></r></p></e>
+    <e><p><l>kuunnella<s n="vblex"/></l><r>slušati<s n="vblex"/></r></p></e>
+    <e><p><l>syödä<s n="vblex"/></l><r>pojesti<s n="vblex"/></r></p></e>
+    <e><p><l>juoda<s n="vblex"/></l><r>popiti<s n="vblex"/></r></p></e>
 
     <!-- adjectives -->
 
@@ -228,6 +266,7 @@
     <e><p><l>pieni<s n="adj"/></l><r>malen<s n="adj"/><s n="pst"/><s n="ma"/></r></p></e>
     <e><p><l>iloinen<s n="adj"/></l><r>sretan<s n="adj"/><s n="pst"/><s n="ma"/></r></p></e>
     <e><p><l>vanha<s n="adj"/></l><r>star<s n="adj"/><s n="pst"/><s n="ma"/></r></p></e>
+    <e><p><l>vähä<s n="adj"/></l><r>mal<s n="adj"/><s n="pst"/><s n="ma"/></r></p></e>
 
     <!-- adpositions -->
 
@@ -235,16 +274,27 @@
     <e><p><l>ulos<s n="post"/></l><r>kroz<s n="pr"/><s n="acc"/></r></p></e>
     <e><p><l>kanssa<s n="pr"/></l><r>s<s n="pr"/><s n="gen"/></r></p></e>
     <e><p><l>kanssa<s n="post"/></l><r>s<s n="pr"/><s n="gen"/></r></p></e>
-
+    <e><p><l>edessä<s n="pr"/></l><r>ispred<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>edessä<s n="post"/></l><r>ispred<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>lähellä<s n="pr"/></l><r>blizu<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>lähellä<s n="post"/></l><r>blizu<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>ympärille<s n="pr"/></l><r>uokolo<s n="adv"/></r></p></e>
+    <e><p><l>ympärille<s n="post"/></l><r>uokolo<s n="adv"/></r></p></e>
+    <e><p><l>alle<s n="pr"/></l><r>ispod<s n="pr"/><s n="gen"/></r></p></e>
+    <e><p><l>alle<s n="post"/></l><r>ispod<s n="pr"/><s n="gen"/></r></p></e>
 
     <!-- conjunctions -->
 
     <e><p><l>ja<s n="cnjcoo"/></l><r>i<s n="cnjcoo"/></r></p></e>
     <e><p><l>mutta<s n="cnjcoo"/></l><r>no<s n="cnjcoo"/></r></p></e>
+    <e><p><l>kun<s n="cnjsub"/></l><r>kad<s n="cnjsub"/></r></p></e>
+    <e><p><l>vaikka<s n="cnjsub"/></l><r>iako<s n="cnjsub"/></r></p></e>
 
     <!-- adverbs -->
 
     <e><p><l>missä<s n="adv"/></l><r>gdje<s n="adv"/></r></p></e>
+    <e><p><l>mitä<s n="adv"/></l><r>što<s n="prn"/></r></p></e>
+    <e><p><l>minne<s n="adv"/></l><r>kamo<s n="prn"/></r></p></e>
 
     <e><p><l>erittäin<s n="adv"/></l><r>jako<s n="adv"/></r></p></e>
     <e><p><l>tänään<s n="adv"/></l><r>danas<s n="adv"/></r></p></e>
@@ -258,12 +308,27 @@
     <e><p><l>nyt<s n="adv"/></l><r>sada<s n="adv"/></r></p></e>
     <e><p><l>sisällä<s n="adv"/></l><r>u<s n="pr"/><s n="loc"/></r></p></e>
     <e><p><l>nopeasti<s n="adv"/></l><r>hitro<s n="adv"/></r></p></e>
+    <e><p><l>entä<s n="adv"/></l><r>i<s n="cnjcoo"/></r></p></e>
+    <e><p><l>tietenkään<s n="adv"/></l><r>naravno<s n="adv"/></r></p></e>
+    <e><p><l>koskaan<s n="adv"/></l><r>nikad<s n="adv"/></r></p></e>
+    <e><p><l>todennäköisesti<s n="adv"/></l><r>vjerojatno<s n="adv"/></r></p></e>
+    <e><p><l>hitaasti<s n="adv"/></l><r>polako<s n="adv"/></r></p></e>
+    <e><p><l>siellä<s n="adv"/></l><r>tamo<s n="adv"/></r></p></e>
+    <e><p><l>kaikkialle<s n="adv"/></l><r>posvuda<s n="adv"/></r></p></e>
+    <e><p><l>huolellisesti<s n="adv"/></l><r>pažljivo<s n="adv"/></r></p></e>
+    <e><p><l>hyvin<s n="adv"/></l><r>dobro<s n="adv"/></r></p></e>
+    <e><p><l>sitten<s n="adv"/></l><r>zatim<s n="adv"/></r></p></e>
+    <e><p><l>vähän<s n="adv"/></l><r>malo<s n="adv"/></r></p></e>
 
     <!-- interjections -->
 
 
     <!-- pronouns -->
     <!-- all sorts of stuff -->
+
+    <e><p><l>mikään<s n="prn"/></l><r>ništa<s n="prn"/><s n="neg"/><s n="mfn"/><s n="sp"/></r></p></e>
+    <e><p><l>muu<s n="prn"/></l><r>drugi<s n="adj"/><s n="pst"/><s n="nt"/></r></p></e>
+    <e><p><l>molemmat<s n="prn"/></l><r>oboje<s n="prn"/><s n="tot"/><s n="nt"/></r></p></e>
 
     <!-- persons -->
     <e><p><l>minä<s n="prn"/><s n="pers"/><s n="p1"/></l><r>free<s n="prn"/><s n="pers"/><s n="p1"/><s n="mfn"/></r></p></e>
@@ -280,8 +345,12 @@
 
     <!-- demon -->
 
+    <e><p><l>se<s n="prn"/></l><r>to<s n="prn"/></r></p></e>
+
     <!-- interrogation -->
+    
     <e><p><l>miksi<s n="prn"/></l><r>zašto<s n="prn"/></r></p></e>
+    <e><p><l>mitä<s n="prn"/></l><r>što<s n="prn"/></r></p></e>
 
     <!-- translating clitics into words kind of works -->
 

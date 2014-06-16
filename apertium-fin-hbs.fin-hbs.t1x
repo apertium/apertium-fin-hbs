@@ -777,7 +777,7 @@
           </lu>
           <b pos="1"/>
             <lu>
-                <lit v="måsta"/>
+                <lit v="moći"/>
                 <lit-tag v="vaux"/>
                 <clip pos="2" side="tl" part="moodtense"/>
                 <clip pos="2" side="tl" part="voice"/>
