@@ -73,7 +73,9 @@
       <cat-item tags="num.*"/>
     </def-cat>
     <def-cat n="adj">
+      <cat-item tags="adj"/>
       <cat-item tags="adj.*"/>
+      <cat-item tags="adj.*.*"/>
     </def-cat>
     <def-cat n="prn">
       <cat-item tags="prn.*"/>
@@ -153,8 +155,10 @@
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
-      <attr-item tags="adj.sint"/>
       <attr-item tags="adj.pst"/>
+      <attr-item tags="adj.pst.m"/>
+      <attr-item tags="adj.pst.f"/>
+      <attr-item tags="adj.pst.nt"/>
     </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn.pers"/>
@@ -308,7 +312,7 @@
           <let><clip pos="1" side="tl" part="synfunc"/><lit v=""/></let>
           <choose>
             <when>
-              <test><or> <!-- Nom/Acc and locative cases -->
+              <test><or>
                 <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="ine"/></equal>
                 <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="ela"/></equal>
                 <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="ill"/></equal>
@@ -330,15 +334,6 @@
 
               <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="nom"/></let>
               <let><var n="sntype"/><lit-tag v="SN"/></let>
-            </when>
-            <when>
-              <test><and>
-                 <equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/></equal>
-                 <not><equal><clip pos="1" side="tl" part="a_prn"/><lit-tag v="prn.pers"/></equal></not>
-              </and></test>
-              <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="nom"/></let>
-              <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="nom"/></let>
-              <let><var n="sntype"/><lit-tag v="SN.GEN"/></let>
             </when>
         </choose>
     </def-macro>
@@ -469,6 +464,9 @@
         <call-macro n="proc-synlabel1"> 
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="case-handler1"> 
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="j" case="caseFirstWord">
             <tags>
@@ -477,8 +475,9 @@
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_adj"/>
-              <lit-tag v="ut"/>
               <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="a_cas"/>
+              <lit-tag v="def"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
