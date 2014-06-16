@@ -112,6 +112,10 @@
   <section-def-attrs>
     <def-attr n="a_verb">
       <attr-item tags="vblex"/>
+      <attr-item tags="vblex.imperf"/>
+      <attr-item tags="vblex.imperf.tv"/>
+      <attr-item tags="vblex.imperf.iv"/>
+      <attr-item tags="vblex.imperf.ref"/>
       <attr-item tags="vbser"/>
       <attr-item tags="vbser.clt"/>
       <attr-item tags="vbhaver"/>
@@ -275,6 +279,7 @@
     <def-var n="sntype"/>
     <def-var n="current_verb"/>
     <def-var n="definiteness"/>
+    <def-var n="verb_stuff"/>
   </section-def-vars>
   <section-def-macros>
  
@@ -508,6 +513,8 @@
             <clip pos="2" side="tl" part="lem"/> <!-- know --> 
             <clip pos="2" side="tl" part="a_verb"/> <!-- vblex -->
             <clip pos="1" side="tl" part="moodtense"/> <!-- pres -->
+            <clip pos="1" side="tl" part="a_pers"/> <!-- pres -->
+            <clip pos="1" side="tl" part="a_nbr"/> <!-- pres -->
             <clip pos="2" side="tl" part="lemq"/>
           </lu>
           </chunk>
@@ -556,7 +563,6 @@
         </out>      
       </action>
     </rule>
-
 
     <rule comment="REGLA: verb-past">
       <pattern>
