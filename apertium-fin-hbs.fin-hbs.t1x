@@ -550,7 +550,7 @@
             </tags>
             <lu>
                 <clip pos="1" side="tl" part="lem"/>
-                <lit-tag v="vblex.inf"/>
+                <lit-tag v="vblex.imperf.ref.inf"/>
             </lu>
           </chunk>
         </out>      
