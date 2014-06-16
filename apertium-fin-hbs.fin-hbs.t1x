@@ -212,7 +212,9 @@
         <attr-item tags="px3pl"/>
         <attr-item tags="px3sp"/>
     </def-attr>
-
+    <def-attr n="a_neg">
+        <attr-item tags="part.neg"/>
+    </def-attr>
     <def-attr n="synfunc">
       <attr-item tags="CLB"/>
       <attr-item tags="@\+FAUXV"/>
@@ -840,6 +842,33 @@
                 <lit-tag v="cnjcoo"/>
             </lu>
             </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="sääntö: negatiivinen verbi">
+      <pattern>
+        <pattern-item n="neg-verb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="negv">
+            <tags>
+              <tag><lit-tag v="NEGV"/></tag>
+            </tags>
+            <mlu>
+              <lu>
+                <clip pos="1" side="tl" part="lemh"/>
+                <clip pos="1" side="tl" part="a_neg"/>
+              </lu>
+              <lu>
+                <lit v="biti"/>
+                <lit-tag v="vbser.clt.pres"/>
+                <clip pos="1" side="tl" part="a_pers"/>
+                <clip pos="1" side="tl" part="a_nbr"/>
+              </lu>
+            </mlu>
+          </chunk>
         </out>
       </action>
     </rule>
