@@ -116,6 +116,12 @@
                <concat><lit v="^prep"/><lit-tag v="PREP"/><lit v="{^"/><lit-tag v="pr"/><lit v="$}$ "/></concat>
           </let>
         </when>
+        <when>
+          <test><equal><clip pos="1" part="a_cas"/><lit-tag v="ine"/></equal></test>
+          <let><var n="PREP"/>
+              <concat><lit v="^prep"/><lit-tag v="PREP"/><lit v="{^u"/><lit-tag v="pr"/><lit-tag v="loc"/><lit v="$}$ "/></concat>
+          </let>
+        </when>
       </choose>
     </def-macro>
     <def-macro n="insert-poss1" npar="1">
