@@ -236,31 +236,31 @@
     <e><p><l>pitää<s n="vblex"/></l><r>obožavati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
     <e><p><l>nukkua<s n="vblex"/></l><r>spavati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
     <e><p><l>katsoa<s n="vblex"/></l><r>gledati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>nähdä<s n="vblex"/></l><r>vidjeti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+    <e><p><l>nähdä<s n="vblex"/></l><r>vidjeti<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
     <e><p><l>juosta<s n="vblex"/></l><r>potrčavati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>tietää<s n="vblex"/></l><r>znati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+    <e><p><l>tietää<s n="vblex"/></l><r>znati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
     <e><p><l>istua<s n="vblex"/></l><r>sjediti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>laskea<s n="vblex"/></l><r>odbrojavati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+    <e><p><l>laskea<s n="vblex"/></l><r>odbrojavati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
     <e><p><l>tehdä<s n="vblex"/></l><r>raditi<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
     <e><p><l>lopettaa<s n="vblex"/></l><r>završavati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>etsiä<s n="vblex"/></l><r>tražiti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>mennä<s n="vblex"/></l><r>otići<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>kysyä<s n="vblex"/></l><r>pitati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>puhua<s n="vblex"/></l><r>govoriti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>saada<s n="vblex"/></l><r>dobivati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>nauraa<s n="vblex"/></l><r>smijati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+    <e><p><l>etsiä<s n="vblex"/></l><r>tražiti<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+    <e><p><l>mennä<s n="vblex"/></l><r>otići<s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
+    <e><p><l>kysyä<s n="vblex"/></l><r>pitati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+    <e><p><l>puhua<s n="vblex"/></l><r>govoriti<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+    <e><p><l>saada<s n="vblex"/></l><r>dobivati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+    <e><p><l>nauraa<s n="vblex"/></l><r>smijati<s n="vblex"/><s n="imperf"/><s n="ref"/></r></p></e>
     <e><p><l>ajatella<s n="vblex"/></l><r>misliti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>kertoa<s n="vblex"/></l><r>reći<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>sanoa<s n="vblex"/></l><r>kazati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>vastata<s n="vblex"/></l><r>odgovarati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>haluta<s n="vblex"/></l><r>željeti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>kävellä<s n="vblex"/></l><r>šetati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>löytää<s n="vblex"/></l><r>naći<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>kuulla<s n="vblex"/></l><r>začuti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+    <e><p><l>kertoa<s n="vblex"/></l><r>reći<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+    <e><p><l>sanoa<s n="vblex"/></l><r>kazati<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+    <e><p><l>vastata<s n="vblex"/></l><r>odgovarati<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+    <e><p><l>haluta<s n="vblex"/></l><r>željeti<s n="vblex"/><s n="imperf"/><s n="tv"/></r></p></e>
+    <e><p><l>kävellä<s n="vblex"/></l><r>šetati<s n="vblex"/><s n="imperf"/><s n="ref"/></r></p></e>
+    <e><p><l>löytää<s n="vblex"/></l><r>naći<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+    <e><p><l>kuulla<s n="vblex"/></l><r>začuti<s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
     <e><p><l>tulla<s n="vblex"/></l><r>dolaziti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
     <e><p><l>kuunnella<s n="vblex"/></l><r>slušati<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>syödä<s n="vblex"/></l><r>pojesti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
-    <e><p><l>juoda<s n="vblex"/></l><r>popiti<s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
+    <e><p><l>syödä<s n="vblex"/></l><r>pojesti<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
+    <e><p><l>juoda<s n="vblex"/></l><r>popiti<s n="vblex"/><s n="perf"/><s n="tv"/></r></p></e>
 
     <!-- adjectives -->
 

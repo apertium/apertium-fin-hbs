@@ -116,6 +116,10 @@
       <attr-item tags="vblex.imperf.tv"/>
       <attr-item tags="vblex.imperf.iv"/>
       <attr-item tags="vblex.imperf.ref"/>
+      <attr-item tags="vblex.perf"/>
+      <attr-item tags="vblex.perf.tv"/>
+      <attr-item tags="vblex.perf.iv"/>
+      <attr-item tags="vblex.erf.ref"/>
       <attr-item tags="vbser"/>
       <attr-item tags="vbser.clt"/>
       <attr-item tags="vbhaver"/>
@@ -557,7 +561,8 @@
             </tags>
             <lu>
                 <clip pos="1" side="tl" part="lem"/>
-                <lit-tag v="vblex.imperf.ref.inf"/>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <lit-tag v="inf"/>
             </lu>
           </chunk>
         </out>      
