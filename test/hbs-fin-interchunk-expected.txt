@@ -1,0 +1,26 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[1DKuqoLcyolw#0] ^unknown<unknown>{^*najsnere$}$
+[/1DKuqoLcyolw]
+[3_2ZyIxG4j3K#0] ^default<default>{^neljä<num><card><sg><mfn><sp><gen>$}$
+[/3_2ZyIxG4j3K]
+[Jl_aF6NGEbFT#0] ^default<default>{^'<apos>$}$
+[/Jl_aF6NGEbFT]
+[LXEWQrcmsEQB#0] ^default<default>{^@x<num>$}$
+[/LXEWQrcmsEQB]
+[QbgF6nrAFOI1#0] ^sent<SENT>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[bkpIas9LdZu5#0] ^unknown<unknown>{^*Latvimmloamfažb$}$
+[/bkpIas9LdZu5]
+[fqNqeLnwGmvG#0] ^unknown<unknown>{^*nvaatoi$}$
+[/fqNqeLnwGmvG]
+[ijMf3ecDLzOn#0] ^default<default>{^@"<quote>$}$
+[/ijMf3ecDLzOn]
+[k5aDoSi40tZ6#0] ^default<default>{^@ES<np><acr><mi><sg><nom>$}$^default<default>{^-<guio>$}$^unknown<unknown>{^*ovemjaeujv$}$
+[/k5aDoSi40tZ6]
+[n3UwRK2Yli5A#0] ^default<default>{^@7%<num><percent>$}$
+[/n3UwRK2Yli5A]
+[pxlHWu9Bm-vI#0] ^default<default>{^@jedan<adj><pst><nt><pl><acc><ind>$}$
+[/pxlHWu9Bm-vI]
+[vzOfZ5MxUPua#0] ^default<default>{^@troje<num><coll>$}$
+[/vzOfZ5MxUPua]

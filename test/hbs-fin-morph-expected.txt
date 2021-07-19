@@ -1,0 +1,26 @@
+[0DUCxD10owuT#0] ^,/,<cm>$
+[/0DUCxD10owuT]
+[1DKuqoLcyolw#0] ^najsnere/*najsnere$
+[/1DKuqoLcyolw]
+[3_2ZyIxG4j3K#0] ^četiriju/četiri<num><mfn><sp><gen>$
+[/3_2ZyIxG4j3K]
+[Jl_aF6NGEbFT#0] ^'/'<apos>$
+[/Jl_aF6NGEbFT]
+[LXEWQrcmsEQB#0] ^x/x<num>$
+[/LXEWQrcmsEQB]
+[QbgF6nrAFOI1#0] ^;/;<sent>$
+[/QbgF6nrAFOI1]
+[bkpIas9LdZu5#0] ^Latvimmloamfažb/*Latvimmloamfažb$
+[/bkpIas9LdZu5]
+[fqNqeLnwGmvG#0] ^nvaatoi/*nvaatoi$
+[/fqNqeLnwGmvG]
+[ijMf3ecDLzOn#0] ^"/"<quote>$
+[/ijMf3ecDLzOn]
+[k5aDoSi40tZ6#0] ^ES/ES<np><acr><mi><sg><nom>/ES<np><acr><mi><sg><acc>/ES<np><acr><mi><sg><voc>$^-/-<guio>$^ovemjaeujv/*ovemjaeujv$
+[/k5aDoSi40tZ6]
+[n3UwRK2Yli5A#0] ^7%/7%<num><percent>$
+[/n3UwRK2Yli5A]
+[pxlHWu9Bm-vI#0] ^jedna/jedan<adj><pst><nt><pl><acc><ind>/jedan<num><f><sg><voc>/jedan<num><f><sg><nom>/jedan<num><nt><pl><voc>/jedan<num><nt><pl><acc>/jedan<num><nt><pl><nom>/jedan<adj><pst><nt><sg><gen><ind>/jedan<adj><pst><nt><pl><voc><def>/jedan<adj><pst><nt><pl><voc><ind>/jedan<adj><pst><nt><pl><acc><def>/jedan<adj><pst><ma><sg><gen><ind>/jedan<adj><pst><nt><pl><nom><def>/jedan<adj><pst><nt><pl><nom><ind>/jedan<adj><pst><f><sg><voc><def>/jedan<adj><pst><f><sg><voc><ind>/jedan<adj><pst><f><sg><nom><def>/jedan<adj><pst><f><sg><nom><ind>/jedan<adj><pst><mi><sg><gen><ind>/jedan<adj><pst><ma><sg><acc><ind>$
+[/pxlHWu9Bm-vI]
+[vzOfZ5MxUPua#0] ^troje/troje<num><coll>/troje<num><coll><nt><nom>/troje<num><coll><nt><acc>/troje<num><coll><nt><voc>$
+[/vzOfZ5MxUPua]

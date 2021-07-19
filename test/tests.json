@@ -1,0 +1,10 @@
+{
+    "fin-hbs": {
+        "input": "fin-hbs-input.txt",
+        "mode": "fin-hbs"
+    },
+    "hbs-fin": {
+        "input": "hbs-fin-input.txt",
+        "mode": "hbs-fin"
+    }
+}

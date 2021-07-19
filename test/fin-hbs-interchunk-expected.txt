@@ -1,0 +1,10 @@
+[8DQVISNJFuky#0] ^default<default>{^@≤<sym><cmp>$}$ ^n<gen><px1pl>{^@C8-C10-alkyylioksi<n><pl><gen>$}$ ^default<default>{^@pa<enc>$}$ ^default<default>{^@kin<enc>$}$
+[/8DQVISNJFuky]
+[T2KBwHnJHAj9#0] ^j<SA>{^@-frekvenssinen<adj><pst><sg><nom><def>$}$
+[/T2KBwHnJHAj9]
+[kle68IoiSpQM#0] ^j<SA>{^@-ikkunainen<adj><pl><gen><def>$}$ ^default<default>{^@ko<qst>$}$
+[/kle68IoiSpQM]
+[r-MgaBuWoE-w#0] ^n<gen><px1sg>{^@Żuromin<np><pl><gen>$}$ ^default<default>{^@kaan<enc>$}$
+[/r-MgaBuWoE-w]
+[sSwON4ZNf7_g#0] ^n<px2sg>{^@é<n>$}$ ^default<default>{^@pa<enc>$}$
+[/sSwON4ZNf7_g]

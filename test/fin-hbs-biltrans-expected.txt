@@ -1,0 +1,10 @@
+[8DQVISNJFuky#0] ^≤<sym><cmp>/@≤<sym><cmp>$ ^C8-C10-alkyylioksi<n><pl><gen><px1pl>/@C8-C10-alkyylioksi<n><pl><gen><px1pl>$ ^pa<enc>/@pa<enc>$ ^kin<enc>/@kin<enc>$
+[/8DQVISNJFuky]
+[T2KBwHnJHAj9#0] ^-frekvenssinen<adj><pst><sg><nom>/@-frekvenssinen<adj><pst><sg><nom>$
+[/T2KBwHnJHAj9]
+[kle68IoiSpQM#0] ^-ikkunainen<adj><comp><pl><gen><use_archaic><px1pl>/@-ikkunainen<adj><comp><pl><gen><use_archaic><px1pl>$ ^ko<qst>/@ko<qst>$
+[/kle68IoiSpQM]
+[r-MgaBuWoE-w#0] ^Żuromin<np><top><pl><gen><px1sg>/@Żuromin<np><top><pl><gen><px1sg>$ ^kaan<enc>/@kaan<enc>$
+[/r-MgaBuWoE-w]
+[sSwON4ZNf7_g#0] ^é<n><px2sg>/@é<n><px2sg>$ ^pa<enc>/@pa<enc>$
+[/sSwON4ZNf7_g]

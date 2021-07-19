@@ -1,0 +1,26 @@
+[0DUCxD10owuT#0] ^,<cm>/,<cm>$
+[/0DUCxD10owuT]
+[1DKuqoLcyolw#0] ^*najsnere/*najsnere$
+[/1DKuqoLcyolw]
+[3_2ZyIxG4j3K#0] ^četiri<num><mfn><sp><gen>/neljä<num><card><sg><mfn><sp><gen>$
+[/3_2ZyIxG4j3K]
+[Jl_aF6NGEbFT#0] ^'<apos>/'<apos>$
+[/Jl_aF6NGEbFT]
+[LXEWQrcmsEQB#0] ^x<num>/@x<num>$
+[/LXEWQrcmsEQB]
+[QbgF6nrAFOI1#0] ^;<sent>/;<sent>$
+[/QbgF6nrAFOI1]
+[bkpIas9LdZu5#0] ^*Latvimmloamfažb/*Latvimmloamfažb$
+[/bkpIas9LdZu5]
+[fqNqeLnwGmvG#0] ^*nvaatoi/*nvaatoi$
+[/fqNqeLnwGmvG]
+[ijMf3ecDLzOn#0] ^"<quote>/@"<quote>$
+[/ijMf3ecDLzOn]
+[k5aDoSi40tZ6#0] ^ES<np><acr><mi><sg><nom>/@ES<np><acr><mi><sg><nom>$^-<guio>/-<guio>/–<guio>$^*ovemjaeujv/*ovemjaeujv$
+[/k5aDoSi40tZ6]
+[n3UwRK2Yli5A#0] ^7%<num><percent>/@7%<num><percent>$
+[/n3UwRK2Yli5A]
+[pxlHWu9Bm-vI#0] ^jedan<adj><pst><nt><pl><acc><ind>/@jedan<adj><pst><nt><pl><acc><ind>$
+[/pxlHWu9Bm-vI]
+[vzOfZ5MxUPua#0] ^troje<num><coll>/@troje<num><coll>$
+[/vzOfZ5MxUPua]

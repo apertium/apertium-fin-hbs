@@ -1,0 +1,10 @@
+[8DQVISNJFuky#0] ^@≤<sym><cmp>$ ^@C8-C10-alkyylioksi<n><pl><gen>$ ^@pa<enc>$ ^@kin<enc>$
+[/8DQVISNJFuky]
+[T2KBwHnJHAj9#0] ^@-frekvenssinen<adj><pst><sg><nom><def>$
+[/T2KBwHnJHAj9]
+[kle68IoiSpQM#0] ^@-ikkunainen<adj><pl><gen><def>$ ^@ko<qst>$
+[/kle68IoiSpQM]
+[r-MgaBuWoE-w#0] ^@Żuromin<np><pl><gen>$ ^@kaan<enc>$
+[/r-MgaBuWoE-w]
+[sSwON4ZNf7_g#0] ^@é<n>$ ^@pa<enc>$
+[/sSwON4ZNf7_g]
